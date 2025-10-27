@@ -48,7 +48,10 @@ pip install gTTS playsound speechrecognition pyaudio pyjokes wikipedia webbrowse
 ```
 ### Atenção: A instalação do pyaudio pode ser um desafio em alguns sistemas operacionais. Se você encontrar erros, pesquise por soluções específicas para seu ambiente (Windows, macOS ou Linux).
 ## 3. Executar o Assistente
-Execute o arquivo principal (assistente.py ou o nome que você usou) no terminal:
+```bash
+assistente-PLN.py
+```
+Execute o arquivo principal no terminal:
 ## 📚 Bibliotecas Utilizadas
 
 | Biblioteca | Função Principal |
